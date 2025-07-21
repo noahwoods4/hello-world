@@ -1,2 +1,2 @@
 # hello-world
-this repository practicing and showcasing git hub work
+this repository is for practicing and showcasing git hub work
