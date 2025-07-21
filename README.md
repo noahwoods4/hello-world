@@ -1,2 +1,3 @@
 # hello-world
 this repository is for practicing and showcasing git hub work
+hello! my name is noah woods, ive been born and raised in louisville my whole life. computer science and coding wasnt something i was interested in until i was aroud 21 years of age, i started to indugle in EA's for day trading and creating algorithms to predict market movement. at that moment it intriuged me. i currently have a 1 year old , a fiance , and a full time job as a machine operator. im pursuing more education because i want a good life for my family, no matter the cost on my sleep, pockets , or personal time. everything i do is for them!
